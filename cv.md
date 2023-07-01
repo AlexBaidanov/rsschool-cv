@@ -10,3 +10,9 @@
 ### Scills:
   I already learn some HTML/CSS, using Git and start lerning JS.
   Used VSCode and WebStorm.
+### Code examples
+```
+multiply = function (a, b) {
+  return a * b;
+}
+```
